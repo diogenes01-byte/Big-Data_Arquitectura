@@ -1,1 +1,1 @@
-# Big-Data_Arquitectura
+Dataproc config, desde hadoop hasta kibana
