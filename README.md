@@ -1,1 +1,1 @@
-# Dataproc config, desde hadoop hasta kibana
+## Principios y prácticas de la arquitectura de datos, enfocándose en el diseño, organización y gobierno de la información dentro de entornos empresariales. Incluye modelos conceptuales, lógicos y físicos que garantizan la calidad, coherencia y accesibilidad de los datos para la analítica y la toma de decisiones.
